@@ -1,0 +1,13 @@
+C:\Users\Gabriel\source\repos\Anime Details Project\Anime Details Project\bin\Debug\Anime Details Project.exe.config
+C:\Users\Gabriel\source\repos\Anime Details Project\Anime Details Project\bin\Debug\Anime Details Project.exe
+C:\Users\Gabriel\source\repos\Anime Details Project\Anime Details Project\bin\Debug\Anime Details Project.pdb
+C:\Users\Gabriel\source\repos\Anime Details Project\Anime Details Project\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Gabriel\source\repos\Anime Details Project\Anime Details Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel\source\repos\Anime Details Project\Anime Details Project\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Gabriel\source\repos\Anime Details Project\Anime Details Project\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Gabriel\source\repos\Anime Details Project\Anime Details Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabriel\source\repos\Anime Details Project\Anime Details Project\obj\Debug\Anime Details Project.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\Anime Details Project\Anime Details Project\obj\Debug\Anime Details Project.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Anime Details Project\Anime Details Project\obj\Debug\Anime Details Project.csproj.CopyComplete
+C:\Users\Gabriel\source\repos\Anime Details Project\Anime Details Project\obj\Debug\Anime Details Project.exe
+C:\Users\Gabriel\source\repos\Anime Details Project\Anime Details Project\obj\Debug\Anime Details Project.pdb
